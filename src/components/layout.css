@@ -1,0 +1,35 @@
+body {
+    font-family: 'IBM Plex Mono', monospace;
+    padding-left: 40px;
+}
+
+a {
+    color: inherit;
+    /* text-decoration-color: rgba(0, 237, 8); */
+    /* text-decoration-thickness: 8px; */
+    text-decoration: none;
+    border-bottom: 2px solid rgba(0, 237, 8);
+}
+
+a:hover {
+    color: rgba(0, 237, 8);
+}
+
+span {
+    display: block;
+    padding-bottom: 10px;
+}
+
+@media all and (min-width: 901px) {
+    body {
+        padding-left: 120px;
+        padding-right: 120px;
+    }
+}
+
+@media all and (max-width: 900px) {
+    body {
+        padding-left: 12px;
+        padding-right: 12px;
+    }
+}
