@@ -6,7 +6,7 @@ export default () => (
         <div>
             <h1>Adam Campbell</h1>
             <p>
-                <span>Musician and software developer from Glasgow.</span>
+                <span>Musician and software developer from Glasgow</span>
                 <span>
                     <a href="https://twitter.com/atttcampbell">Twitter</a>
                 </span>
