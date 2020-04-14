@@ -17,8 +17,8 @@ export default () => (
                     <a href="https://www.fancyyyyy.com">FANCYYYYY</a> - record label and eurorack
                     modules with Tristan Clutterbuck
                 </span>
-                <span>Ego Depletion with Fritz Welch</span>
-                <span>Fua with Tina Krekels and Tristan Clutterbuck</span>
+                <span><a href="https://vimeo.com/236033872">Ego Depletion</a> with Fritz Welch</span>
+                <span><a href="https://vimeo.com/253410692">Fua</a> with Tina Krekels and Tristan Clutterbuck</span>
             </p>
             <h2>Recent:</h2>
             <p>
