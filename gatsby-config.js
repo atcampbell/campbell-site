@@ -14,7 +14,7 @@ module.exports = {
         {
             resolve: `gatsby-plugin-s3`,
             options: {
-                bucketName: 'campbell-site',
+                bucketName: 'adamcampbell.org',
                 acl: null
             }
         }
