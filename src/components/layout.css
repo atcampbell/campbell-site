@@ -1,21 +1,32 @@
 body {
     font-family: 'IBM Plex Mono', monospace;
     padding-left: 40px;
+    font-size: x-large;
+    background-color: blueviolet;
+    color: white;
+    color: rgba(0, 255, 8);
+}
+
+h1 { 
+    color: white;
+}
+
+h2 {
+    color: white;
 }
 
 a {
-    color: inherit;
-    text-decoration: none;
-    border-bottom: 2px solid rgba(0, 237, 8);
+    font-style: italic;
+    color: rgba(0, 255, 8);
 }
 
 a:hover {
-    color: rgba(0, 237, 8);
+    color: white;
 }
 
 span {
-    display: block;
-    padding-bottom: 10px;
+    background-color: blueviolet;
+    padding: 2px;
 }
 
 @media all and (min-width: 901px) {
