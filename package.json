@@ -15,7 +15,7 @@
     "deploy": "gatsby-plugin-s3 deploy -y"
   },
   "dependencies": {
-    "gatsby": "^2.20.12",
+    "gatsby": "^4.25.7",
     "gatsby-plugin-prefetch-google-fonts": "^1.4.3",
     "gatsby-plugin-s3": "^0.3.3",
     "react": "^16.12.0",
